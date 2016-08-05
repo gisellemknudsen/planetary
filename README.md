@@ -1,2 +1,2 @@
 # planetary-
-An cosmic description of other celestial bodies.
+A cosmic description of other celestial bodies.
